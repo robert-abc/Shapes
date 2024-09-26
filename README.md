@@ -144,6 +144,4 @@ set(h, <span class="string">'AlphaData'</span>, ~isnan(final2))
 set(gca, <span class="string">'YDir'</span>,<span class="string">'normal'</span>)
 colorbar
 axis <span class="string">equal</span>
-</pre><img vspace="5" hspace="5" src="TIE_2D_dataset_denoiser_clean_02.png" alt=""> <p class="footer"><br><a href="https://www.mathworks.com/products/matlab/">Published with MATLAB&reg; R2023a</a><br></p></div><!--
-
---></body></html>
+</pre><img vspace="5" hspace="5" src="TIE_2D_dataset_denoiser_clean_02.png" alt=""> <p class="footer"><br></body></html>
